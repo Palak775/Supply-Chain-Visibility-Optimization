@@ -25,3 +25,6 @@ Defined Primary and Foreign key relationships.
 - Power BI Desktop
 - Power Query
 - DAX
+
+## Dataset
+- SupplyChain.csv: [https://drive.google.com/file/d/1Ce1piC4LpMBo3a-yAuRj77lOr6IEhhe6/view?usp=drive_link]
